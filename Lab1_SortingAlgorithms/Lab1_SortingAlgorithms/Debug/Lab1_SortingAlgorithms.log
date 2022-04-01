@@ -1,0 +1,3 @@
+﻿  Lab1_SortingAlgorithms.cpp
+D:\C++\4 semester\Lab1_SortingAlgorithms\Lab1_SortingAlgorithms\Lab1_SortingAlgorithms.cpp(135,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab1_SortingAlgorithms.vcxproj -> D:\C++\4 semester\Lab1_SortingAlgorithms\Debug\Lab1_SortingAlgorithms.exe
